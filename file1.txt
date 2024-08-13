@@ -1,1 +1,5 @@
 Hey this is my first repo
+git clone "https"
+git add .
+git commit
+git push "token"
