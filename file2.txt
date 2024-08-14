@@ -1,6 +1,2 @@
-hey this is line one 
-this is line two
-this is line three
-
-hello team this is my last commit 
-
+three commit 
+four commit 
